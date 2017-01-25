@@ -11,6 +11,7 @@ https://www.percona.com/blog/2015/10/07/using-apache-spark-mysql-data-analysis/
 
 ---------------------------------------------------------------------------
 Spark SQL MySQL Example With JDBC
+
 https://www.supergloo.com/fieldnotes/spark-sql-mysql-example-jdbc/
 
 
