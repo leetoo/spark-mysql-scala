@@ -1,4 +1,5 @@
 How Apache Spark Makes Your Slow MySQL Queries 10x Faster (or More)
+
 https://dzone.com/articles/how-apache-spark-makes-your-slow-mysql-queries-10x
 
 
