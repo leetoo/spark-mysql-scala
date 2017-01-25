@@ -3,6 +3,19 @@ How Apache Spark Makes Your Slow MySQL Queries 10x Faster (or More)
 https://dzone.com/articles/how-apache-spark-makes-your-slow-mysql-queries-10x
 
 
+---------------------------------------------------------------------------
+Using Apache Spark and MySQL for Data Analysis
+
+https://www.percona.com/blog/2015/10/07/using-apache-spark-mysql-data-analysis/
+
+
+---------------------------------------------------------------------------
+Spark SQL MySQL Example With JDBC
+https://www.supergloo.com/fieldnotes/spark-sql-mysql-example-jdbc/
+
+
+
+
 
 ![FASTTTTTTTT](logo.png)
 
